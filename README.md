@@ -50,7 +50,7 @@ Make a public folder in you drive and provide it to bot. Then Enjoy ☺️☺️
 ## Genarate Telegram Bot Token
 
 - Search and start bot father
-      ```bash
+  ```bash
         @BotFather
 
 - Create a bot and use its API in provided place in code.
