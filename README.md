@@ -14,7 +14,7 @@ Make a public folder in you drive and provide it to bot. Then Enjoy ☺️☺️
      ```bash
    /setfolder "Your Google drive folder link"
 
-- Now Setup is complete You can use the bot ✨ ✨ 
+- Now Setup complete You can use the bot ✨ ✨ 
     
 
 ## How Use the Code (For Developers) 
