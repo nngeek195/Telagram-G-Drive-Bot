@@ -45,7 +45,7 @@ Make a public folder in you drive and provide it to bot. Then Enjoy ☺️☺️
 - Download the JSON file containing your credentials.
 
 **Set Up Authentication**
-- Use the downloaded JSON file to authenticate your script. The first time you run the script, it will open a browser window asking you to log in and grant permissions.
+- Use the downloaded JSON file to authenticate your script. The first time you run the script.
 
 ## Genarate Telegram Bot Token
 
