@@ -1,6 +1,6 @@
 # Telegram G-Drive Bot
 
-This is a telegram bot specially design for integrate and upload telegram documents to Google drive 👾👾. By using this bot you can upload any file in telegram to your google drive.
+This is a telegram bot specially design for integrate and upload telegram documents to Google drive 👾👾. 
 Make a public folder in you drive and provide it to bot. Then Enjoy ☺️☺️
 
 ## How Use The Bot (For Users)
