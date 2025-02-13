@@ -25,7 +25,7 @@ Make a public folder in you drive and provide it to bot. Then Enjoy ☺️☺️
 
 - Install python
 - Install essential libraries
--       ```bash
+- ```bash
          pip install -r requirements.txt
 
 - Now need to setup google Api services and Telegram bot token
