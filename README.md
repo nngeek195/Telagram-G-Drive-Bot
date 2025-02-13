@@ -19,9 +19,9 @@ Make a public folder in you drive and provide it to bot. Then Enjoy ☺️☺️
 
 ## How Use the Code (For Developers) 
 
-- Clone the repostory 
+- Clone the repostory
   ```bash
-     https://github.com/nngeek195/Telagram-G-Drive-Bot.git
+      https://github.com/nngeek195/Telagram-G-Drive-Bot.git
 
 - Install python
 - Install essential libraries
