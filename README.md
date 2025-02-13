@@ -6,7 +6,7 @@ Make a public folder in you drive and provide it to bot. Then Enjoy ☺️☺️
 ## How Use The Bot (For Users)
 
 - Use follow user name
-         ```bash
+  ```bash
      @HelloWold195_Bot
   
 - Start the bot
@@ -21,7 +21,7 @@ Make a public folder in you drive and provide it to bot. Then Enjoy ☺️☺️
 
 - Clone the repostory 
       ```bash
-     
+     https://github.com/nngeek195/Telagram-G-Drive-Bot.git
 
 - Install python
 - Install essential libraries
