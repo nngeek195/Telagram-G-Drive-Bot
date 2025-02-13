@@ -134,7 +134,7 @@ async def handle_file(update: Update, context: CallbackContext):
 
 def main():
     """Start the bot."""
-    application = Application.builder().token('7550334516:AAGxKa9Y2FPu1CgnfTyGaqr2BaSNglHQzZ0').build()
+    application = Application.builder().token('Telegram Token').build()
 
     # Command Handlers
     application.add_handler(CommandHandler('start', start))
