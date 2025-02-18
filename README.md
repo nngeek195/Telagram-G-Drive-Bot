@@ -57,7 +57,9 @@ Make a public folder in you drive and provide it to bot. Then Enjoy ☺️☺️
       
 ## Special 💎💎
 
-- This my own bot has hosted in PythonAnyWhere free plan so when you use it some limitations will be occure but please note, but if you use a powerful premium hosting service bot will work with perfect and no any limitations will happens. 
+- This my own bot has hosted in PythonAnyWhere free plan so when you use it some limitations will be occure but please note, but if you use a powerful premium hosting service it will lost and here I am using a regular bot so he also having some download and upload limitations but in future projects I will introduce you a bot who is more powerful than this, but do not worry this bot is toatally fine and he can help to complete our daily tasks. 
+
+### Happy Hacking
 
 
 ![623ced63-dfca-47c9-8fa8-fa2d3e87cba2](https://github.com/user-attachments/assets/5c88ee67-4511-4fd3-a012-59d2d369d4ab)
